@@ -66,7 +66,7 @@ A real-time stock price monitoring and prediction pipeline built with Python, de
 ## 🔧 Installation & Setup
 
 ```bash
-git clone https://github.com/Anshul-ydv/Algotrading-Sentiment.git
+git clone https://github.com/Anshul-ydv/Algo_trader_with_sentiment.git
 cd Algotrading-Sentiment
 pip install -r requirements.txt
 ```
