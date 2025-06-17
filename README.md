@@ -94,17 +94,8 @@ To analyze multiple stocks, use `5stocks.ipynb`.
 
 ## 📄 Report
 
-For complete methodology, literature review, and diagrams, see [GenAI\_Report\_Group\_9.pdf](./GenAI_Report_Group_9.pdf).
+For complete methodology, literature review, and diagrams, see [Report.pdf).
 
----
-
-## 🧠 Authors
-
-* Anshul Yadav
-* Shruti Bajpayee
-* Saransh Bhargava
-* Ritika Yadav
-  *Mentored by Dr. Manisha Saini, BML Munjal University*
 
 ---
 
